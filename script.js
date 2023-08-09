@@ -70,7 +70,7 @@ function CreateProjectLinks() {
   for (const project of projects) {
     const A = document.createElement("a");
     document.querySelector("main").append(A);
-    A.href = `${project.folder}/index.html`;
+    A.href = `${project.folder}`; // /index.html?
     A.target = "_blank";
     A.style.backgroundImage = `url(${project.folder}/preview.png)`;
 

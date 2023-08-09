@@ -29,11 +29,11 @@ const projects = [
     description: "Wie die TV-Gameshow.",
     folder: "dealornodeal",
   },
-  {
-    title: "SpaceSAX",
-    description: "Mein erstes Projekt.",
-    folder: "spacesax",
-  },
+  // {
+  //   title: "SpaceSAX",
+  //   description: "Mein erstes Projekt.",
+  //   folder: "spacesax",
+  // },
   {
     title: "Lichtsimulator",
     description: "Beobachten Sie, wie sich Photonen verhalten.",
@@ -70,7 +70,7 @@ function CreateProjectLinks() {
   for (const project of projects) {
     const A = document.createElement("a");
     document.querySelector("main").append(A);
-    A.href = `${project.folder}`; // /index.html?
+    A.href = `${project.folder}`;
     A.target = "_blank";
     A.style.backgroundImage = `url(${project.folder}/preview.png)`;
 

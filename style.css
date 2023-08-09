@@ -49,6 +49,9 @@ a:hover {
   transition: 200ms;
   z-index: 100;
 }
+a:focus {
+  outline: 2px solid #fff;
+}
 
 .project-text {
   left: 0;

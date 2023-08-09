@@ -71,6 +71,7 @@ function CreateProjectLinks() {
     const A = document.createElement("a");
     document.querySelector("main").append(A);
     A.href = `${project.folder}/index.html`;
+    A.target = "_blank";
     A.style.backgroundImage = `url(${project.folder}/preview.png)`;
 
     const Text = document.createElement("div");

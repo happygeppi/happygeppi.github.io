@@ -88,7 +88,7 @@ function Init() {
   setTimeout(() => {
     CreateHeading();
     Update();
-  }, 100);
+  }, 500);
 }
 
 function Update() {

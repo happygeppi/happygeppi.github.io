@@ -17,8 +17,8 @@ const projects = [
     folder: "sudoku",
   },
   {
-	  title: "Super Tic Tac Toe",
-	  folder: "tictactoe?dim=2",
+    title: "Super Tic Tac Toe",
+    folder: "tictactoe?dim=2",
   },
   // {
   //   title: "Auto-KI",

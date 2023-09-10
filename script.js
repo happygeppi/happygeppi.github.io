@@ -18,20 +18,8 @@ const projects = [
   },
   {
     title: "Super Tic Tac Toe",
-    folder: "tictactoe ",
+    folder: "tictactoe",
   },
-  // {
-  //   title: "Auto-KI",
-  //   folder: "autoki",
-  // },
-  // {
-  //   title: "Subway Surfers KI",
-  //   folder: "subwaysurfers",
-  // },
-  // {
-  //   title: "Wave Function Collapse",
-  //   folder: "wavefunctioncollapse",
-  // },
   {
     title: "Minesweeper",
     folder: "minesweeper",

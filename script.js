@@ -11,6 +11,15 @@ const projects = [
     title: "Stundenplangenerator",
     folder: "stundenplangenerator",
   },
+  
+  {
+    title: "Sudoku-L&ouml;ser",
+    folder: "sudoku",
+  },
+  {
+	  title: "Super Tic Tac Toe",
+	  folder: "tictactoe?dim=2",
+  },
   // {
   //   title: "Auto-KI",
   //   folder: "autoki",
@@ -66,10 +75,6 @@ const projects = [
   {
     title: "Flappy Bird",
     folder: "flappybird",
-  },
-  {
-    title: "Sudoku-L&ouml;ser",
-    folder: "sudoku",
   },
   {
     title: "Turingmaschine",

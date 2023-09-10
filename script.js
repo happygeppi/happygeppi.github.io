@@ -18,7 +18,7 @@ const projects = [
   },
   {
     title: "Super Tic Tac Toe",
-    folder: "tictactoe",
+    folder: "tictactoe ",
   },
   // {
   //   title: "Auto-KI",

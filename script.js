@@ -35,18 +35,6 @@ const projects = [
     title: "Sudoku-L&ouml;ser",
     folder: "sudoku",
   },
-  // {
-  //   title: "Auto-KI",
-  //   folder: "autoki",
-  // },
-  // {
-  //   title: "Subway Surfers KI",
-  //   folder: "subwaysurfers",
-  // },
-  // {
-  //   title: "Wave Function Collapse",
-  //   folder: "wavefunctioncollapse",
-  // },
   {
     title: "Minesweeper",
     folder: "minesweeper",
@@ -71,10 +59,6 @@ const projects = [
     title: "Textbild",
     folder: "textbild",
   },
-  // {
-  //   title: "SpaceSAX",
-  //   folder: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-  // },
   {
     title: "Flappy Bird",
     folder: "flappybird",
